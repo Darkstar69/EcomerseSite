@@ -12,10 +12,6 @@
     .slider{
         height: 25vh;
     }
-    .card{
-        flex-wrap: wrap;
-        flex-direction: column;
-    }
     .card-item img{
         width: 140px;
     }
