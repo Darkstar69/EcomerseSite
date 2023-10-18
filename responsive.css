@@ -13,7 +13,7 @@
         height: 25vh;
     }
     .cards{
-        flex-direction: column;
+        flex-wrap: wrap;
     }
     .card-item img{
         width: 140px;
